@@ -1,5 +1,7 @@
 # Docker components all together
 
+Docker comes with great documentation. Sometimes though, with different components and tools, it gets less easy to make sense out of everything. I’ve tried to put together the most important parts.
+
 ## Table of Contents
 
 * [Docker](#docker)
