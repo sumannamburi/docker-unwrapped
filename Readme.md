@@ -1,4 +1,4 @@
-# Docker components all together.
+# Docker components all together
 
 ## Table of Contents
 
